@@ -3,6 +3,7 @@ This is an ionic vuejs project to create mobile apps for ios and android devices
 Btw the ionic developers create CapacitorJS. This Framework is included in this project.
 It enables us to compile our project to an IOS or ANDROID app.
 
+So first of all make sure you have the right dependencies
 
 Lets get started!
 Open your Terminal and enter step by step the 
