@@ -5,8 +5,8 @@ It enables us to compile our project to an IOS or ANDROID app.
 
 So first of all make sure you have the right dependencies
 
-Lets get started!
+
 Open your Terminal and enter step by step the 
 
 
-# Test
+# Lets get started!
